@@ -102,4 +102,3 @@ def validatetheblockchain():
     
 #runnning the app
 app.run(host='0.0.0.0',port=5000)#check and run on other systems in your network
-#there are 64 bits only in prev hash?????????????????????
